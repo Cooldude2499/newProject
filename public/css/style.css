@@ -1529,6 +1529,7 @@
  .my-alert {
   position: relative;
   background-color: #fff;
+  padding: 50px;
  }
 
  /** feature-section **/
@@ -4987,6 +4988,7 @@
 
  .my-modal {
    z-index: 2000;
+   padding: 10px;
    position: fixed;
    height: 100%;
    width: 100%;
@@ -5004,8 +5006,8 @@
 
  .btn-close {
    position: absolute;
-   right: 10px;
-   top: 10px;
+   right: 20px;
+   top: 20px;
    font-size: 30px;
    color: #856404;
    background-color: transparent;
