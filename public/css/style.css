@@ -1526,6 +1526,10 @@
    animation: zoom-fade 5s infinite linear;
  }
 
+ .my-alert {
+  position: relative;
+  background-color: #fff;
+ }
 
  /** feature-section **/
 
